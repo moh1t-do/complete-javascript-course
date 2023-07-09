@@ -18,3 +18,9 @@ console.log(typeof true);
 returns the the data type
 
 ### Let, Const and Var
+
+### Basic Operators
+
+### Operator Precedence
+
+![operators](https://ecomputernotes.com/images/operator-precedence-in-javascript.jpg)
