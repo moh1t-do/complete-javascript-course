@@ -49,3 +49,7 @@ let myStr = `I'm ${batman}`;
 ||, &&
 
 ### Logical Operators
+
+## Switch statement
+
+fall through
