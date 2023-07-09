@@ -58,3 +58,10 @@ fall through
 
 statement end with ;
 expression produce values
+
+### Ternary
+
+```javascript
+let num = 3;
+num >= 4 ? console.log("YES") : console.log("NO");
+```
