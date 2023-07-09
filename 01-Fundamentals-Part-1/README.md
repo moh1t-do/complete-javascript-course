@@ -38,4 +38,8 @@ let myStr = `I'm ${batman}`;
 
 ### Truthy and Falsy
 
-0, '', undefined, null, Nan
+0, '', undefined, null, NaN
+
+### Equality
+
+==, ===
