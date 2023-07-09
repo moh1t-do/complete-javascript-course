@@ -16,3 +16,5 @@ console.log(typeof true);
 ```
 
 returns the the data type
+
+### Let, Const and Var
