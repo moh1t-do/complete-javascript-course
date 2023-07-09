@@ -50,6 +50,11 @@ let myStr = `I'm ${batman}`;
 
 ### Logical Operators
 
-## Switch statement
+### Switch statement
 
 fall through
+
+### Statement and Expression
+
+statement end with ;
+expression produce values
