@@ -47,3 +47,5 @@ let myStr = `I'm ${batman}`;
 ### Boolean Logic
 
 ||, &&
+
+### Logical Operators
