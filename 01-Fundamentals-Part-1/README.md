@@ -35,3 +35,7 @@ let myStr = `I'm ${batman}`;
 ### if else
 
 ### Type Conversion
+
+### Truthy and Falsy
+
+0, '', undefined, null, Nan
