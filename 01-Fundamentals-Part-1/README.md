@@ -24,3 +24,11 @@ returns the the data type
 ### Operator Precedence
 
 ![operators](https://ecomputernotes.com/images/operator-precedence-in-javascript.jpg)
+
+### String and Template Literals
+
+```javascript
+let batman = "Bruce Wayne";
+let myStr = `I'm ${batman}`;
+```
+
