@@ -5,3 +5,14 @@
 3. capitalise name for OOP.
 4. all caps for constants.
 5. descriptive naming of varibles.
+
+### Data Type
+
+**PDT**
+Number / String / Boolean / Undefined / Null / Symbol(NR) / BigInt
+
+```javascript
+console.log(typeof true);
+```
+
+returns the the data type
