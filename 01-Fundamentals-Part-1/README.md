@@ -43,3 +43,7 @@ let myStr = `I'm ${batman}`;
 ### Equality
 
 ==, ===
+
+### Boolean Logic
+
+||, &&
