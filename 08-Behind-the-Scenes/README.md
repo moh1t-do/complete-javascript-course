@@ -11,4 +11,4 @@ Usage of event loop to perform long taking tasks.
 
 ### This keyword
 
-Used to call the current calling object. Points to the owener of the object.
+Used to call the current calling object. Points to the owner of the object.
