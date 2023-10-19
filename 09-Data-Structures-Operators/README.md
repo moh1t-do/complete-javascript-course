@@ -1,7 +1,7 @@
-### Destructing
+### Destructuring
 
 ```javascript
-// destructing
+// destructuring
 const [x, y, z] = arr;
 
 // skipping is also applicable
