@@ -92,3 +92,19 @@ Maps can have any data type as keys unlike objects which only should be strings.
 Object are not iterables hence .entries() is used.
 
 ### String
+
+```javascript
+const airline = "Airplane init";
+
+console.log(airline.length);
+console.log(airline.indexOf("init"));
+console.log(airline.silce(4));
+console.log(airline.silce(-1));
+
+console.log(airline[2].toLowerCase());
+
+// Other functions
+// includes, startsWith
+// split(' ') join(' ') returns an array
+// padStart padEnd
+```
